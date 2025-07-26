@@ -61,7 +61,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin0246&layout=compact&theme=tokyonight)
 
 ---
+### 🧠 Goals
 
+- 🚀 Land a **Cloud/DevOps Internship**
+- 📦 Build and deploy full-stack cloud applications
+- 🌐 Learn **Flask** and **Spring Boot** for backend API development
+- 💼 Contribute to **Open Source Projects**
+- ❤️ Make my parents proud through hard work and success
+
+---
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aswin-ragav-s-a-883b11276)
